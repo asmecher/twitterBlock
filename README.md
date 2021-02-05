@@ -25,3 +25,5 @@
 
 #### The Plugin is now activted:
 ![alt text](https://user-images.githubusercontent.com/7657717/59442988-863d9000-8dfb-11e9-8037-43022f4b4726.png)
+
+BUMP
